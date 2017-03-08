@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WJWheel"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A wheel for Swift3.0"
 
   # This description is used to generate tags and improve search results.
